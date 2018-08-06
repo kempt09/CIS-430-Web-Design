@@ -23,8 +23,17 @@ body {
   border-bottom: 1px solid #fff;
 }
 
+.copy, .social-link {
+  font-size: 1.25em;
+}
+
 .social-link {
   color: #FFF;
+  margin-right: 40px;
+}
+
+.social-link:last-child {
+  margin-right: 0;
 }
 
 .social-link:hover {
