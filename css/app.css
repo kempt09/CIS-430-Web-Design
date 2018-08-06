@@ -1,0 +1,32 @@
+body {
+  background: rgba(0, 0, 0, 0.2)
+}
+
+.visible {
+  display: block;
+}
+
+.invisible {
+  display: none;
+}
+
+.card, .card-img-top {
+  border-radius: 0;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+}
+
+.jumbotron-products {
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+}
+
+.social-link {
+  color: #FFF;
+}
+
+.social-link:hover {
+  color: rgba(0, 0, 0, 0.5)
+}
